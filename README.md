@@ -1,2 +1,5 @@
-# Week-2
-The assignment panel; Awishkar code for week 2
+# Week 2
+
+## 📌 Overview
+This repository contains the solutions and notes for **Week 2** of the Problem Solving and Programming course. It includes practice problems, explanations, and code implementation
+Datatyeps
